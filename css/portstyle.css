@@ -851,7 +851,7 @@ img {
 }
 
 
-@media (max-width:550px ) {
+@media (min-width:550px ) {
 
     #fill {
         background: black;
@@ -915,7 +915,7 @@ img {
 }
 
 
-@media (max-width:500px ) {
+@media (min-width:500px ) {
 
     #fill {
         background: black;
@@ -928,7 +928,7 @@ img {
     }
     #projects {
         background: orange;
-        padding-top: 170%;
+        padding-top: 150%;
         padding-bottom: 80px;
         text-align: center;
     }
