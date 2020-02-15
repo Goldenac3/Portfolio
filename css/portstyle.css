@@ -978,7 +978,7 @@ img {
     }
 }
 
-@media (max-width:320px ) {
+@media (min-width:300px ) {
 
     #fill {
         background: black;
