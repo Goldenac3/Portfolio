@@ -979,7 +979,7 @@ img {
 }
 
 
-@media (min-width:320px ) {
+@media (max-width:320px ) {
 
     #fill {
         background: black;
