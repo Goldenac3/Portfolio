@@ -915,7 +915,7 @@ img {
 }
 
 
-@media (max-width:500px ) {
+@media (min-width:500px ) {
 
     #fill {
         background: black;
