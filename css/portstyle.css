@@ -31,7 +31,7 @@ body {
 #welcome-section {
     z-index: 1;
     position: absolute;
-    background-image:url(img/Technical_documentation_page.png);
+    background-image:url(../img/homepage.jpeg);
     background-size: cover;
     background-position: center;
     height: 100vh;
