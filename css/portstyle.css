@@ -977,3 +977,81 @@ img {
         border: 1px solid black;
     }
 }
+
+@media (max-width:480px ) {
+
+    #fill {
+        background: black;
+        color: white;
+        height: 500px;
+        padding-left: 14%;
+        padding-top: 20px;
+        padding-bottom: 25px;
+        font-size: 20px;
+    }
+    #projects {
+        background: orange;
+        padding-top: 195%;
+        padding-bottom: 80px;
+        text-align: center;
+    }
+    
+    img {
+        padding:10px;
+        background: black;
+        border-radius: 10px;
+        height: 150px;
+        width: 150px;
+    }
+    
+    #project-links {
+        display: grid;
+        grid-template-columns: 200px;
+        grid-template-rows: 200px 200px 200px 200px;
+        grid-column-gap: 5px;
+        grid-row-gap:50px;
+    }
+
+    input {
+        width: 200px;
+        height:50px;
+        border-radius: 5px;
+    }
+
+    textarea {
+        width:200px;
+    }
+
+    button {
+        width:205px;
+    }
+
+    #welcome-section h1 {
+        font-size: 30px;
+        font-family: cursive;
+        font-style: italic;
+    }
+
+    #project-links p {
+        color: white;
+        padding:5px;
+        background: green;
+        border-radius: 5px;
+        border: 1px solid black;
+    }
+    
+    
+#navbar {
+    background: green;
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    top:0;
+    width:100%;
+    font-size: 20px;
+    z-index: 2;
+    border-bottom: 1px solid black;
+    padding-left:5px;
+    padding-right:5px;
+}
+}
