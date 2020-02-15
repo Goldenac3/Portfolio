@@ -31,7 +31,7 @@ body {
 #welcome-section {
     z-index: 1;
     position: absolute;
-    background-image:url(https://github.com/Goldenac3/Goldenac3.github.io/blob/master/img/homepage.jpeg?raw=true);
+    background-image:url(img/Technical_documentation_page.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
